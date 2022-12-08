@@ -114,5 +114,5 @@ function setNewQuestion() {
         responseBtns[0].style.background = "dodgerblue";
         responseBtns[1].style.background = "dodgerblue";
         
-    }, 2000);
+    }, 1000);
 }
