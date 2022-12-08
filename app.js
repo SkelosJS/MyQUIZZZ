@@ -59,7 +59,7 @@ const questions = [
         question: "Quel est le champion du monde de Formule 1 en 2022 ?",
         response: "Max Verstappen",
         fake_response: "Daniel Ricciardo"
-    }
+    },
 ];
 
 // initaliser la première question
@@ -114,5 +114,5 @@ function setNewQuestion() {
         responseBtns[0].style.background = "dodgerblue";
         responseBtns[1].style.background = "dodgerblue";
         
-    }, 100);
+    }, 2000);
 }
