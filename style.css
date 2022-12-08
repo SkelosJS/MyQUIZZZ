@@ -75,6 +75,17 @@ html {
     cursor: pointer;
 }
 
+/* POINTS */
+.container .points {
+    padding: 10px;
+    background: gold;
+    color: #191919;
+    border-radius: 10px;
+    margin: 20px 0px;
+    display: none;
+    text-align: center;
+}
+
 /* START QUIZ */
 .container .start-quiz button {
     text-align: center;
